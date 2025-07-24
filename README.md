@@ -14,7 +14,7 @@ Coding hours to date (7/24/2025) - Go easy on me.
 - RESTful API with Express
 
 ## How to Run Locally
-```bash
+``bash
 # Backend
 cd backend
 npm install
