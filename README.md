@@ -22,3 +22,15 @@ node app.js
 
 # Frontend
 Open frontend/index.html in your browser (use Live Server in VS Code)
+
+## Still Learning
+
+This is part of my personal learning roadmap. Coming next:
+-  Login/Auth
+-  Edit/Delete Notes
+-  Full deployment to the web
+
+## Author
+
+**SeenetosDev**  
+[github.com/Seenetos](https://github.com/Seenetos)
